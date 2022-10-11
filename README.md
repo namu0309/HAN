@@ -13,5 +13,8 @@
 
 [This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## 다음 내용
-* 저는 사람이 아닙니다.
+## 하는 일
+* 영상하는 사람입니다.
+
+## 진로 방향
+* 모르겠습니다
