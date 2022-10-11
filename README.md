@@ -3,9 +3,12 @@
 
 # 만든사람
 * 한재민 <hanjaemin0309@gmail.com>
-* 사람입니다
+* 그냥 사람입니다
 
 
 ## 어떤 내용
 * 블라블라블라
 * https://seoularts.ac.kr
+
+
+[This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
